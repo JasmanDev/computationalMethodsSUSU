@@ -1,0 +1,11 @@
+C:\Users\Jasman\source\repos\Method_2\Method_2\bin\Debug\netcoreapp2.1\Method_2.deps.json
+C:\Users\Jasman\source\repos\Method_2\Method_2\bin\Debug\netcoreapp2.1\Method_2.runtimeconfig.json
+C:\Users\Jasman\source\repos\Method_2\Method_2\bin\Debug\netcoreapp2.1\Method_2.runtimeconfig.dev.json
+C:\Users\Jasman\source\repos\Method_2\Method_2\bin\Debug\netcoreapp2.1\Method_2.dll
+C:\Users\Jasman\source\repos\Method_2\Method_2\bin\Debug\netcoreapp2.1\Method_2.pdb
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.csprojAssemblyReference.cache
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.csproj.CoreCompileInputs.cache
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.AssemblyInfoInputs.cache
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.AssemblyInfo.cs
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.dll
+C:\Users\Jasman\source\repos\Method_2\Method_2\obj\Debug\netcoreapp2.1\Method_2.pdb
